@@ -14,3 +14,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  @apply  bg-white text-violet-950 font-semibold px-1 py-1 rounded-full border border-slate-300
+}
